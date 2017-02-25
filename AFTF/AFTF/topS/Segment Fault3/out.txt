@@ -1,0 +1,25 @@
+p
+photo index is 0.
+Get photo successfully!
+a
+SavePath is //home//fa//Photo//1.jpg.
+Adjust photo index is 0.
+Get adjust photo successfully!
+begin to get adjust parameter
+[-6.591172983294989e-05, 0.005719591608955607, -0.6390768737819691;
+  -0.005626449409931102, 2.47354939511517e-05, 0.7697813766652721;
+  0.6568616786913551, -0.8047825835683059, 1]
+Get a pretty good result!0.00614646  0.00632295
+translation:  [0.0820974, -0.0134404]
+rotation angle is 0.018651
+end to get adjust parameter
+COM send (Hex):[FE FE 0E 10 00 00 00 00 01 00 00 00 00 00 00 1F]
+a
+SavePath is //home//fa//Photo//2.jpg.
+Adjust photo index is 0.
+Get adjust photo successfully!
+begin to get adjust parameter
+[0, 0, 0;
+  0, 0, 0;
+  0, 0, 0]
+Segmentation fault

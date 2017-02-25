@@ -1,0 +1,29 @@
+p
+photo index is 0.
+Get photo successfully!
+a
+SavePath is //home//fa//Photo//1.jpg.
+Adjust photo index is 0.
+Get adjust photo successfully!
+begin to get adjust parameter
+[-3.370404875341181e-06, -0.00138108045343206, 1.71429894766692;
+  0.001394676189063462, -1.896944737284629e-06, -0.8472574529752028;
+  -1.715221364504991, 0.8419825039807851, 1]
+Get a pretty good result!0.00489609  0.00600331
+translation:  [-0.242025, 0.108393]
+rotation angle is 0.121791
+end to get adjust parameter
+COM send (Hex):[FE FE 0E 11 00 01 00 02 00 00 01 00 00 00 00 1D]
+a
+SavePath is //home//fa//Photo//2.jpg.
+Adjust photo index is 0.
+Get adjust photo successfully!
+begin to get adjust parameter
+[-2.15185990330112e-05, -0.0001933237967867386, 0.1056025770802317;
+  -0.0002263824030682494, 0.0001828855675166706, -0.04339856839451567;
+  0.03047775684037207, -0.01532241371489382, 1]
+Get a pretty good result!0.0255558  0.0272466
+translation:  [542.612, 108.077]
+rotation angle is -114.576286
+end to get adjust parameter
+COM send (Hex):[FE FE 09 96 00 00 15 32 00 04 38 00 00 00 00 84]

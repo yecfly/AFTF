@@ -1,0 +1,23 @@
+p
+cvSetCaptureProperty value is  0.
+cvSetCaptureProperty value is  0.
+photo index is 0.
+Get photo successfully!
+a
+SavePath is //home//fa//Photo//1.jpg.
+Adjust photo index is 0.
+Get adjust photo successfully!
+Time comsuming: 0.000203
+
+rotation:6.430737
+(x,y): (-3.985773, 20.106585)
+COM send (Hex):[FE FE 0E 10 00 01 00 27 00 00 C9 00 00 00 00 F1]
+a
+SavePath is //home//fa//Photo//2.jpg.
+Adjust photo index is 0.
+Get adjust photo successfully!
+Time comsuming: 0.000172
+
+rotation:11.236954
+(x,y): (-6.191940, 36.317638)
+COM send (Hex):[FE FE 0E 10 00 01 00 3D 00 01 6B 00 00 00 00 48]

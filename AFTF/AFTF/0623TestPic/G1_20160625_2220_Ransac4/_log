@@ -1,0 +1,390 @@
+col1:计数	col2:图片1角度	col3图片2角度	col9:角度估值误差	col13:过滤后特征点集	col14:过滤前特征点集	col22:图一索引（从零开始）	col23(最后一列):图二索引（从零开始）
+GetSurfDes: 1.776283s
+1392/1392 FilterPointSets: 0.014436s
+EstimateRigidTransform: 0.000181s
+RXYEstimation: 0.007168s
+calXYV: 0.003370s
+PointSetsEva: 0.001911s
+1 0 0 0 0 15 15 0.000000 0.000000 0.000000 -0.000000 2 1392 1392 0.000001 0.000001 -0.000000 0.000000 1.000000 0.000000 1.000000 0 0 7.977011 -0.044760 0.027150
+GetSurfDes: 1.568043s
+266/853 FilterPointSets: 0.070446s
+EstimateRigidTransform: 0.000069s
+RXYEstimation: 0.001392s
+calXYV: 0.000955s
+PointSetsEva: 0.000388s
+2 0 0 0 0 15 14 0.134346 0.134346 19.464392 1.920955 2 266 853 19.692610 1.529293 -22.120035 0.841912 0.999996 0.002696 1.001582 0 1 7.387218 0.035282 -0.420512
+GetSurfDes: 1.233811s
+35/464 FilterPointSets: 0.197382s
+EstimateRigidTransform: 0.000060s
+RXYEstimation: 0.000291s
+calXYV: 0.000129s
+PointSetsEva: 0.000072s
+3 0 0 0 0 15 5 0.755356 0.755356 198.547226 2.885643 1 35 464 198.670911 3.075292 -187.975636 29.467705 0.999882 0.015332 0.979885 0 2 3.771429 -0.307540 -10.507478
+GetSurfDes: 1.092745s
+9/230 FilterPointSets: 0.184626s
+EstimateRigidTransform: 0.000066s
+RXYEstimation: 0.000182s
+calXYV: 0.000032s
+PointSetsEva: 0.000032s
+4 0 0 0 10 15 5 0.942755 0.942755 187.897629 262.631653 1 9 230 322.947662 1.255215 -221.718236 -245.910519 0.999816 0.019205 1.013506 0 3 2.444444 9.822055 -9.812730
+GetSurfDes: 0.981993s
+6/147 FilterPointSets: 0.178984s
+EstimateRigidTransform: 0.000240s
+RXYEstimation: 0.000155s
+calXYV: 0.000021s
+PointSetsEva: 0.000024s
+1 5 0 4 boundary failure
+
+GetSurfDes: 1.160731s
+6/397 FilterPointSets: 0.191285s
+EstimateRigidTransform: 0.000106s
+RXYEstimation: 0.000164s
+calXYV: 0.000021s
+PointSetsEva: 0.000068s
+1 6 0 5 boundary failure
+
+GetSurfDes: 1.411833s
+7/481 FilterPointSets: 0.195598s
+EstimateRigidTransform: 0.003126s
+1 7 0 6 failed to find am
+
+GetSurfDes: 1.032842s
+5/157 FilterPointSets: 0.178808s
+EstimateRigidTransform: 0.003201s
+1 8 0 7 failed to find am
+
+GetSurfDes: 1.010204s
+6/161 FilterPointSets: 0.181656s
+EstimateRigidTransform: 0.000077s
+RXYEstimation: 0.000188s
+calXYV: 0.000023s
+PointSetsEva: 0.000028s
+9 0 20 0 16 15 5 0.891516 -19.108484 171.277237 267.913574 1 6 161 398.604156 106.813283 317.342749 -45.371434 0.999835 0.018143 0.380919 0 8 1.500000 10.612009 -9.128283
+GetSurfDes: 1.045552s
+6/184 FilterPointSets: 0.183316s
+EstimateRigidTransform: 0.000084s
+RXYEstimation: 0.000165s
+calXYV: 0.000022s
+PointSetsEva: 0.000024s
+1 10 0 9 boundary failure
+
+GetSurfDes: 1.668308s
+1464/1464 FilterPointSets: 0.014577s
+EstimateRigidTransform: 0.000153s
+RXYEstimation: 0.006998s
+calXYV: 0.003536s
+PointSetsEva: 0.002005s
+11 0 0 0 0 14 14 -0.000000 -0.000000 -0.000000 0.000000 2 1464 1464 0.000001 0.000001 0.000000 0.000000 1.000000 -0.000000 1.000000 1 1 7.978142 -0.044760 0.027150
+GetSurfDes: 1.274701s
+51/458 FilterPointSets: 0.194713s
+EstimateRigidTransform: 0.000056s
+RXYEstimation: 0.000355s
+calXYV: 0.000131s
+PointSetsEva: 0.000087s
+12 0 0 0 0 14 5 -0.291710 -0.291710 182.341629 -9.219886 1 51 458 182.583444 2.407247 -191.270951 -5.844565 0.999983 -0.005812 1.013597 1 2 3.500000 -0.431804 -9.048989
+GetSurfDes: 1.106096s
+11/230 FilterPointSets: 0.182028s
+EstimateRigidTransform: 0.000127s
+RXYEstimation: 0.000194s
+calXYV: 0.000051s
+PointSetsEva: 0.000038s
+13 0 0 0 10 14 5 -3.473639 -3.473639 207.569717 221.278152 1 11 230 303.764815 16.486108 -147.386461 -324.342739 0.997740 -0.067187 1.019883 1 3 2.363636 22.669409 -19.506968
+GetSurfDes: 0.973268s
+6/148 FilterPointSets: 0.179237s
+EstimateRigidTransform: 0.000222s
+RXYEstimation: 0.000299s
+calXYV: 0.000022s
+PointSetsEva: 0.000029s
+14 0 0 0 16 14 5 0.422304 0.422304 45.316711 313.675110 1 6 148 375.067340 93.371823 -193.633564 -374.084752 0.999964 0.008518 1.013382 1 4 1.500000 16.540190 -4.077002
+GetSurfDes: 1.220427s
+6/406 FilterPointSets: 0.192194s
+EstimateRigidTransform: 0.003208s
+1 15 1 5 failed to find am
+
+GetSurfDes: 1.439876s
+6/485 FilterPointSets: 0.199533s
+EstimateRigidTransform: 0.000169s
+RXYEstimation: 0.000246s
+calXYV: 0.000032s
+PointSetsEva: 0.000027s
+1 16 1 6 boundary failure
+
+GetSurfDes: 0.986176s
+5/162 FilterPointSets: 0.180096s
+EstimateRigidTransform: 0.004539s
+1 17 1 7 failed to find am
+
+GetSurfDes: 1.010304s
+6/161 FilterPointSets: 0.181972s
+EstimateRigidTransform: 0.000062s
+RXYEstimation: 0.000145s
+calXYV: 0.000089s
+PointSetsEva: 0.000029s
+1 18 1 8 boundary failure
+
+GetSurfDes: 1.004776s
+6/188 FilterPointSets: 0.179578s
+EstimateRigidTransform: 0.000058s
+RXYEstimation: 0.000155s
+calXYV: 0.000022s
+PointSetsEva: 0.000026s
+1 19 1 9 boundary failure
+
+GetSurfDes: 0.884101s
+672/672 FilterPointSets: 0.007034s
+EstimateRigidTransform: 0.000114s
+RXYEstimation: 0.003320s
+calXYV: 0.001644s
+PointSetsEva: 0.000937s
+20 0 0 0 0 5 5 0.000000 0.000000 0.000000 -0.000000 1 672 672 0.000001 0.000003 0.000000 0.000000 1.000000 0.000000 1.000000 2 2 7.952381 -0.044760 0.027150
+GetSurfDes: 0.781237s
+13/204 FilterPointSets: 0.180220s
+EstimateRigidTransform: 0.000065s
+RXYEstimation: 0.000212s
+calXYV: 0.000040s
+PointSetsEva: 0.000037s
+21 0 0 0 10 5 5 1.446628 1.446628 -25.104900 270.821289 1 13 204 272.527313 5.842290 6.153444 -219.342743 0.999557 0.029773 0.975712 2 3 2.307692 15.533681 -11.006548
+GetSurfDes: 0.706030s
+6/117 FilterPointSets: 0.174925s
+EstimateRigidTransform: 0.000122s
+RXYEstimation: 0.000172s
+calXYV: 0.000051s
+PointSetsEva: 0.000029s
+22 0 0 0 16 5 5 -1.678516 -1.678516 -44.816467 317.196075 1 6 117 408.230967 35.087965 632.734341 -47.273962 0.951400 -0.307957 0.273667 2 4 1.500000 -15.735476 -1934.138306
+GetSurfDes: 0.835434s
+6/234 FilterPointSets: 0.183386s
+EstimateRigidTransform: 0.000051s
+RXYEstimation: 0.000140s
+calXYV: 0.000022s
+PointSetsEva: 0.000024s
+1 23 2 5 boundary failure
+
+GetSurfDes: 1.081115s
+7/249 FilterPointSets: 0.184328s
+EstimateRigidTransform: 0.000122s
+RXYEstimation: 0.000184s
+calXYV: 0.000024s
+PointSetsEva: 0.000025s
+24 0 -20 0 16 5 5 -6.547154 13.452846 35.453815 62.086010 1 7 249 317.118886 127.738284 40.261604 -519.001928 0.965617 -0.259968 1.025128 2 6 1.750000 5.408653 -15.716479
+GetSurfDes: 0.716318s
+6/117 FilterPointSets: 0.177937s
+EstimateRigidTransform: 0.000049s
+RXYEstimation: 0.000139s
+calXYV: 0.000022s
+PointSetsEva: 0.000024s
+1 25 2 7 boundary failure
+
+GetSurfDes: 0.738107s
+6/128 FilterPointSets: 0.180745s
+EstimateRigidTransform: 0.000054s
+RXYEstimation: 0.000131s
+calXYV: 0.000022s
+PointSetsEva: 0.000024s
+1 26 2 8 boundary failure
+
+GetSurfDes: 0.721775s
+6/134 FilterPointSets: 0.178459s
+EstimateRigidTransform: 0.000179s
+RXYEstimation: 0.000281s
+calXYV: 0.000022s
+PointSetsEva: 0.000024s
+27 0 60 0 16 5 5 -7.681056 -67.681056 803.669128 -27.812750 1 6 134 825.041405 317.156064 77.969001 555.530811 0.986201 -0.165551 0.009826 2 9 2.000000 -200.556305 -174.576553
+GetSurfDes: 0.669320s
+299/299 FilterPointSets: 0.003440s
+EstimateRigidTransform: 0.000063s
+RXYEstimation: 0.001492s
+calXYV: 0.000737s
+PointSetsEva: 0.000474s
+28 0 0 10 10 5 5 0.000000 0.000000 0.000000 0.000000 1 299 299 0.000000 0.000000 -0.000000 0.000000 1.000000 0.000000 1.000000 3 3 7.892977 -0.044760 0.027150
+GetSurfDes: 0.617814s
+7/81 FilterPointSets: 0.178620s
+EstimateRigidTransform: 0.000727s
+RXYEstimation: 0.000652s
+calXYV: 0.000024s
+PointSetsEva: 0.000028s
+1 29 3 4 boundary failure
+
+GetSurfDes: 0.732751s
+10/143 FilterPointSets: 0.180462s
+EstimateRigidTransform: 0.000051s
+RXYEstimation: 0.000145s
+calXYV: 0.000032s
+PointSetsEva: 0.000030s
+30 0 -10 10 16 5 5 -7.839571 2.160429 121.876205 -73.660034 1 10 143 167.522952 10.096935 33.579038 -232.949886 0.985055 -0.172242 1.019699 3 5 2.250000 -0.539499 -5.219900
+GetSurfDes: 0.917944s
+8/135 FilterPointSets: 0.177460s
+EstimateRigidTransform: 0.000054s
+RXYEstimation: 0.000142s
+calXYV: 0.000026s
+PointSetsEva: 0.000026s
+31 0 -20 10 16 5 5 5.320324 25.320324 70.763458 67.522675 1 8 135 105.862881 4.883132 144.574411 -294.240969 0.938413 -0.345514 0.990415 3 6 2.000000 -6.764808 -0.899032
+GetSurfDes: 0.572261s
+6/85 FilterPointSets: 0.175416s
+EstimateRigidTransform: 0.003699s
+1 32 3 7 failed to find am
+
+GetSurfDes: 0.635685s
+6/86 FilterPointSets: 0.181431s
+EstimateRigidTransform: 0.000059s
+RXYEstimation: 0.000149s
+calXYV: 0.000024s
+PointSetsEva: 0.000028s
+1 33 3 8 boundary failure
+
+GetSurfDes: 0.617087s
+6/104 FilterPointSets: 0.178068s
+EstimateRigidTransform: 0.000069s
+RXYEstimation: 0.000171s
+calXYV: 0.000025s
+PointSetsEva: 0.000031s
+1 34 3 9 boundary failure
+
+GetSurfDes: 0.461394s
+167/167 FilterPointSets: 0.002981s
+EstimateRigidTransform: 0.002570s
+RXYEstimation: 0.000913s
+calXYV: 0.000412s
+PointSetsEva: 0.000247s
+35 0 0 16 16 5 5 0.000000 0.000000 0.000000 0.000000 1 167 167 0.000001 0.000002 -0.000000 0.000000 1.000000 0.000000 1.000000 4 4 7.076347 -0.044760 0.027150
+GetSurfDes: 0.641471s
+6/104 FilterPointSets: 0.179120s
+EstimateRigidTransform: 0.000065s
+RXYEstimation: 0.000154s
+calXYV: 0.000029s
+PointSetsEva: 0.000029s
+36 0 -10 16 16 5 5 1.046047 11.046047 176.355499 -6.451945 1 6 104 195.363750 235.778530 196.621470 -190.425773 0.945807 -0.324729 0.994326 4 5 1.500000 -16.626177 -8.709906
+GetSurfDes: 0.838979s
+6/109 FilterPointSets: 0.180710s
+EstimateRigidTransform: 0.000055s
+RXYEstimation: 0.000152s
+calXYV: 0.000024s
+PointSetsEva: 0.000027s
+1 37 4 6 boundary failure
+
+GetSurfDes: 0.510672s
+17/91 FilterPointSets: 0.177863s
+EstimateRigidTransform: 0.000063s
+RXYEstimation: 0.000201s
+calXYV: 0.000048s
+PointSetsEva: 0.000039s
+38 0 10 16 16 5 5 7.363362 -2.636638 -61.777805 140.102112 1 17 91 181.221585 35.542175 -18.560526 103.536970 0.986620 0.163035 0.976205 4 7 2.426471 5.896781 -22.967943
+GetSurfDes: 0.549092s
+7/81 FilterPointSets: 0.178742s
+EstimateRigidTransform: 0.000055s
+RXYEstimation: 0.000141s
+calXYV: 0.000026s
+PointSetsEva: 0.000027s
+39 0 20 16 16 5 5 19.870565 -0.129435 -168.350845 144.347931 1 7 81 311.136409 71.472057 -11.078588 197.904012 0.951893 0.306432 0.942974 4 8 1.250000 -0.026848 0.016262
+GetSurfDes: 0.515201s
+6/91 FilterPointSets: 0.177713s
+EstimateRigidTransform: 0.000095s
+RXYEstimation: 0.000180s
+calXYV: 0.000022s
+PointSetsEva: 0.000024s
+1 40 4 9 boundary failure
+
+GetSurfDes: 0.831340s
+775/775 FilterPointSets: 0.008976s
+EstimateRigidTransform: 0.000117s
+RXYEstimation: 0.003776s
+calXYV: 0.001875s
+PointSetsEva: 0.001074s
+41 -10 -10 16 16 5 5 0.000000 0.000000 -0.000000 -0.000000 1 775 775 0.000002 0.000003 0.000000 0.000000 1.000000 0.000000 1.000000 5 5 7.958710 -0.044760 0.027150
+GetSurfDes: 1.039046s
+6/467 FilterPointSets: 0.189981s
+EstimateRigidTransform: 0.000182s
+RXYEstimation: 0.000587s
+calXYV: 0.000025s
+PointSetsEva: 0.000028s
+42 -10 -20 16 16 5 5 9.148566 19.148566 -75.112907 112.348701 1 6 467 141.215093 143.424681 -817.446078 40.703840 0.980530 0.196370 1.610324 5 6 2.000000 3.581626 -18.704412
+GetSurfDes: 0.705541s
+5/153 FilterPointSets: 0.176238s
+EstimateRigidTransform: 0.000137s
+RXYEstimation: 0.000201s
+calXYV: 0.000019s
+PointSetsEva: 0.000022s
+1 43 5 7 boundary failure
+
+GetSurfDes: 0.689184s
+5/138 FilterPointSets: 0.178849s
+EstimateRigidTransform: 0.003107s
+1 44 5 8 failed to find am
+
+GetSurfDes: 0.652145s
+6/142 FilterPointSets: 0.178834s
+EstimateRigidTransform: 0.000054s
+RXYEstimation: 0.000137s
+calXYV: 0.000022s
+PointSetsEva: 0.000024s
+1 45 5 9 boundary failure
+
+GetSurfDes: 1.358940s
+1629/1629 FilterPointSets: 0.015383s
+EstimateRigidTransform: 0.000181s
+RXYEstimation: 0.007711s
+calXYV: 0.003950s
+PointSetsEva: 0.002333s
+46 -20 -20 16 16 5 5 0.000000 0.000000 0.000000 -0.000000 1 1629 1629 0.000001 0.000002 -0.000000 0.000000 1.000000 0.000000 1.000000 6 6 7.980356 -0.044760 0.027150
+GetSurfDes: 0.849332s
+6/165 FilterPointSets: 0.178554s
+EstimateRigidTransform: 0.003465s
+1 47 6 7 failed to find am
+
+GetSurfDes: 0.890563s
+5/151 FilterPointSets: 0.183145s
+EstimateRigidTransform: 0.003193s
+1 48 6 8 failed to find am
+
+GetSurfDes: 0.864164s
+5/174 FilterPointSets: 0.181399s
+EstimateRigidTransform: 0.000126s
+RXYEstimation: 0.000223s
+calXYV: 0.000019s
+PointSetsEva: 0.000023s
+49 -20 60 16 16 5 5 -8.184457 -88.184457 -53.277905 -187.880264 1 5 174 364.576044 162.686135 486.055804 237.254235 0.978300 -0.207192 0.485463 6 9 0.750000 -22.786318 -19.870829
+GetSurfDes: 0.532140s
+185/185 FilterPointSets: 0.003561s
+EstimateRigidTransform: 0.000064s
+RXYEstimation: 0.000989s
+calXYV: 0.000453s
+PointSetsEva: 0.000267s
+50 10 10 16 16 5 5 0.000000 0.000000 -0.000000 -0.000000 1 185 185 0.000002 0.000003 -0.000000 0.000000 1.000000 0.000000 1.000000 7 7 6.848649 -0.044760 0.027150
+GetSurfDes: 0.518282s
+12/102 FilterPointSets: 0.186045s
+EstimateRigidTransform: 0.000052s
+RXYEstimation: 0.000142s
+calXYV: 0.000035s
+PointSetsEva: 0.000032s
+51 10 20 16 16 5 5 7.667433 -2.332567 -61.997391 111.074066 1 12 102 167.446843 34.749311 -46.325933 96.020324 0.985586 0.169175 1.000980 7 8 3.000000 4.498793 -20.504713
+GetSurfDes: 0.586980s
+6/96 FilterPointSets: 0.182503s
+EstimateRigidTransform: 0.000063s
+RXYEstimation: 0.000162s
+calXYV: 0.000022s
+PointSetsEva: 0.000024s
+1 52 7 9 boundary failure
+
+GetSurfDes: 0.570447s
+188/188 FilterPointSets: 0.003546s
+EstimateRigidTransform: 0.000079s
+RXYEstimation: 0.001000s
+calXYV: 0.000461s
+PointSetsEva: 0.000272s
+53 20 20 16 16 5 5 0.000000 0.000000 -0.000000 -0.000000 1 188 188 0.000001 0.000001 -0.000000 0.000000 1.000000 0.000000 1.000000 8 8 6.606383 -0.044760 0.027150
+GetSurfDes: 0.574300s
+6/104 FilterPointSets: 0.183814s
+EstimateRigidTransform: 0.000123s
+RXYEstimation: 0.000209s
+calXYV: 0.000024s
+PointSetsEva: 0.000026s
+1 54 8 9 boundary failure
+
+GetSurfDes: 0.536831s
+228/228 FilterPointSets: 0.003971s
+EstimateRigidTransform: 0.000082s
+RXYEstimation: 0.001187s
+calXYV: 0.000615s
+PointSetsEva: 0.000329s
+55 60 60 16 16 5 5 0.000000 0.000000 -0.000000 -0.000000 1 228 228 0.000001 0.000002 -0.000000 -0.000000 1.000000 0.000000 1.000000 9 9 7.859649 -0.044760 0.027150
+
+Time: 57.593097s 	 seconds/per pair: 1.047147

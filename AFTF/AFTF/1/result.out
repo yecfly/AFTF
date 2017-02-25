@@ -1,0 +1,55 @@
+Receive GetPhot Data : [ f5 f5 1 56 3e 5e 0 33 0 4 ]
+adjust orignal picture is 16294_o.jpg fix picture is 16294_a.jpg, result is :
+Real rotation is : 8.6
+False detection.
+Adjust used time is : 3.79317 seconds ,END of Adjust
+
+
+Receive GetPhot Data : [ f5 f5 2 8 41 6b 0 33 0 13 ]
+adjust orignal picture is 265107_o.jpg fix picture is 265107_a.jpg, result is :
+Real rotation is : 0.8
+rotation:1.44504 (x,y):20.1748 , -4.49191
+Adjust used time is : 3.63688 seconds ,END of Adjust
+
+
+Receive GetPhot Data : [ f5 f5 3 5 44 64 0 33 0 15 ]
+adjust orignal picture is 368100_o.jpg fix picture is 368100_a.jpg, result is :
+Real rotation is : 0.5
+rotation:1.44504 (x,y):0 , 0
+Adjust used time is : 1.91627 seconds ,END of Adjust
+
+
+Receive GetPhot Data : [ f5 f5 4 1a 3b 6c 0 33 0 7a ]
+adjust orignal picture is 459108_o.jpg fix picture is 459108_a.jpg, result is :
+Real rotation is : 2.6
+rotation:1.44504 (x,y):0 , 0
+Adjust used time is : 4.19788 seconds ,END of Adjust
+
+
+Receive GetPhot Data : [ f5 f5 5 13 38 5f 0 33 0 42 ]
+adjust orignal picture is 55695_o.jpg fix picture is 55695_a.jpg, result is :
+Real rotation is : 1.9
+rotation:1.44504 (x,y):0 , 0
+Adjust used time is : 2.03766 seconds ,END of Adjust
+
+
+Receive GetPhot Data : [ f5 f5 6 7 35 67 0 33 0 60 ]
+adjust orignal picture is 653103_o.jpg fix picture is 653103_a.jpg, result is :
+Real rotation is : 0.7
+rotation:1.44504 (x,y):0 , 0
+Adjust used time is : 1.97991 seconds ,END of Adjust
+
+
+Receive GetPhot Data : [ f5 f5 7 13 32 54 0 33 0 41 ]
+adjust orignal picture is 75084_o.jpg fix picture is 75084_a.jpg, result is :
+Real rotation is : 1.9
+rotation:1.44504 (x,y):0 , 0
+Adjust used time is : 2.02375 seconds ,END of Adjust
+
+
+Receive GetPhot Data : [ f5 f5 8 e 2b 66 0 33 0 78 ]
+adjust orignal picture is 843102_o.jpg fix picture is 843102_a.jpg, result is :
+Real rotation is : 1.4
+rotation:1.44504 (x,y):0 , 0
+Adjust used time is : 1.93717 seconds ,END of Adjust
+
